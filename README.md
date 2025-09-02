@@ -36,19 +36,31 @@
 ---
 
 ### 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/siddharthasingh10/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddharthasingh10&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/siddharthasingh10/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddharthasingh10&repo=project2&theme=radical" />
-  </a>
-  <a href="https://github.com/siddharthasingh10/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddharthasingh10&repo=project3&theme=radical" />
-  </a>
-</p>
+
+#### 🔹 [TRYST – Microservices Chat Application](https://github.com/siddharthasingh10/Tryst)
+- **Tech Stack**: MongoDB, Express.js, React.js, Next.js, Typescript, Node.js, Redis, RabbitMQ, Docker, Socket.IO  
+- Engineered a **microservices-based chat platform** with dedicated services for user management, mail delivery, and real-time messaging.  
+- Implemented **event-driven communication** with RabbitMQ (Dockerized) + Redis caching.  
+- Features: signup/login, OTP verification, one-to-one messaging with delivery/seen status, persistent chat history.  
 
 ---
+
+#### 🔹 [Dictionary Management Application](https://github.com/siddharthasingh10/Dictionary-Manager)
+- **Tech Stack**: MERN (MongoDB, Express.js, React.js, Node.js), TailwindCSS, Redis, Cohere API  
+- Built a **custom dictionary management platform** with word recommendation (AI-powered using Cohere).  
+- Features: authentication, search, visibility controls (public/private), Redis-based caching for performance.  
+- Helps users **create, manage, and share dictionaries** interactively.  
+
+---
+
+#### 🔹 [ZYNK – Full-Stack Social Media Platform](https://github.com/siddharthasingh10/zynk)
+- **Tech Stack**: MERN (MongoDB, Express.js, React.js, Node.js), TailwindCSS, Socket.IO, Cloudinary  
+- A **social media platform** with post creation, likes, comments, saved posts, and profile management.  
+- Integrated **secure media uploads** with Cloudinary + real-time notifications/chat with Socket.IO.  
+- Built for **scalable and engaging user interaction**.  
+
+---
+
 
 ### 📊 GitHub Stats
 <p align="center">
