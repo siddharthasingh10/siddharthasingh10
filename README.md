@@ -34,48 +34,45 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,c,cpp,docker,rabbitmq,tailwind" />
 </p>
 
----
-
 ### 🚀 Featured Projects
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="300px">
   <a href="https://github.com/siddharthasingh10/Tryst">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddharthasingh10&repo=Tryst&theme=radical" />
   </a>
-</p>
-<p align="center">
-  ⚡ <b>TRYST (Microservices Chat App)</b><br>
-  A production-ready <b>microservices-based real-time chat platform</b> with <b>RabbitMQ, Redis, and Docker</b>.  
-  Features include OTP authentication, reliable message delivery, and persistent chat history.
-</p>
-
----
-
-<p align="center">
+  <p>
+    ⚡ <b>TRYST</b><br>
+    Microservices-based real-time chat app with <b>RabbitMQ, Redis & Docker</b>.<br>
+    Includes OTP authentication, reliable delivery & persistent chat history.
+  </p>
+</td>
+<td align="center" width="300px">
   <a href="https://github.com/siddharthasingh10/Dictionary-Manager">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddharthasingh10&repo=Dictionary-Manager&theme=radical" />
   </a>
-</p>
-<p align="center">
-  📖 <b>Dictionary Management Application</b><br>
-  A <b>full-stack MERN application</b> with <b>AI-powered word recommendations (Cohere API)</b>.  
-  Includes authentication, search, and Redis caching for high performance and scalability.
-</p>
-
----
-
-<p align="center">
+  <p>
+    📖 <b>Dictionary Manager</b><br>
+    Full-stack MERN app with <b>AI-powered word recommendations</b>.<br>
+    Features authentication, search & Redis caching for high performance.
+  </p>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
   <a href="https://github.com/siddharthasingh10/zynk">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddharthasingh10&repo=zynk&theme=radical" />
   </a>
-</p>
-<p align="center">
-  🌐 <b>ZYNK (Social Media Platform)</b><br>
-  A <b>MERN-based social platform</b> supporting posts, likes, comments, and saved posts.  
-  Integrated with <b>Cloudinary</b> for secure media uploads and <b>Socket.IO</b> for real-time chat & notifications.
-</p>
+  <p>
+    🌐 <b>ZYNK</b><br>
+    MERN-based social media platform with posts, likes, comments & saved posts.<br>
+    Integrated with <b>Cloudinary</b> for media uploads & <b>Socket.IO</b> for real-time chat.
+  </p>
+</td>
+</tr>
+</table>
 
----
 
 ### 📊 GitHub Stats
 <p align="center">
