@@ -33,33 +33,40 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,c,cpp,docker,rabbitmq,tailwind" />
 </p>
 
----
-
 ### 🚀 Featured Projects
-
-#### 🔹 [TRYST – Microservices Chat Application](https://github.com/siddharthasingh10/Tryst)
-- **Tech Stack**: MongoDB, Express.js, React.js, Next.js, Typescript, Node.js, Redis, RabbitMQ, Docker, Socket.IO  
-- Engineered a **microservices-based chat platform** with dedicated services for user management, mail delivery, and real-time messaging.  
-- Implemented **event-driven communication** with RabbitMQ (Dockerized) + Redis caching.  
-- Features: signup/login, OTP verification, one-to-one messaging with delivery/seen status, persistent chat history.  
-
----
-
-#### 🔹 [Dictionary Management Application](https://github.com/siddharthasingh10/Dictionary-Manager)
-- **Tech Stack**: MERN (MongoDB, Express.js, React.js, Node.js), TailwindCSS, Redis, Cohere API  
-- Built a **custom dictionary management platform** with word recommendation (AI-powered using Cohere).  
-- Features: authentication, search, visibility controls (public/private), Redis-based caching for performance.  
-- Helps users **create, manage, and share dictionaries** interactively.  
+<p align="center">
+  <a href="https://github.com/siddharthasingh10/Tryst">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddharthasingh10&repo=Tryst&theme=radical" />
+  </a>
+</p>
+<p align="center">
+  🔹 **TRYST (Microservices Chat App)** – A microservices-based real-time chat platform with RabbitMQ, Redis, and Docker for seamless messaging, OTP verification, and persistent chat history.
+</p>
 
 ---
 
-#### 🔹 [ZYNK – Full-Stack Social Media Platform](https://github.com/siddharthasingh10/zynk)
-- **Tech Stack**: MERN (MongoDB, Express.js, React.js, Node.js), TailwindCSS, Socket.IO, Cloudinary  
-- A **social media platform** with post creation, likes, comments, saved posts, and profile management.  
-- Integrated **secure media uploads** with Cloudinary + real-time notifications/chat with Socket.IO.  
-- Built for **scalable and engaging user interaction**.  
+<p align="center">
+  <a href="https://github.com/siddharthasingh10/Dictionary-Manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddharthasingh10&repo=Dictionary-Manager&theme=radical" />
+  </a>
+</p>
+<p align="center">
+  🔹 **Dictionary Management App** – Full-stack MERN app with AI-powered word recommendation (Cohere API), authentication, custom dictionaries, and Redis caching for high performance.
+</p>
 
 ---
+
+<p align="center">
+  <a href="https://github.com/siddharthasingh10/zynk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddharthasingh10&repo=zynk&theme=radical" />
+  </a>
+</p>
+<p align="center">
+  🔹 **ZYNK (Social Media Platform)** – A MERN-based social media platform with posts, likes, comments, saved posts, profiles, Cloudinary media uploads, and real-time chat using Socket.IO.
+</p>
+
+---
+
 
 
 ### 📊 GitHub Stats
