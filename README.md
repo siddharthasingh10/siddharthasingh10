@@ -34,44 +34,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,c,cpp,docker,rabbitmq,tailwind" />
 </p>
 
-### 🚀 Featured Projects
 
-<table align="center">
-<tr>
-<td align="center" width="300px">
-  <a href="https://github.com/siddharthasingh10/Tryst">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddharthasingh10&repo=Tryst&theme=radical" />
-  </a>
-  <p>
-    ⚡ <b>TRYST</b><br>
-    Microservices-based real-time chat app with <b>RabbitMQ, Redis & Docker</b>.<br>
-    Includes OTP authentication, reliable delivery & persistent chat history.
-  </p>
-</td>
-<td align="center" width="300px">
-  <a href="https://github.com/siddharthasingh10/Dictionary-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddharthasingh10&repo=Dictionary-Manager&theme=radical" />
-  </a>
-  <p>
-    📖 <b>Dictionary Manager</b><br>
-    Full-stack MERN app with <b>AI-powered word recommendations</b>.<br>
-    Features authentication, search & Redis caching for high performance.
-  </p>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-  <a href="https://github.com/siddharthasingh10/zynk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddharthasingh10&repo=zynk&theme=radical" />
-  </a>
-  <p>
-    🌐 <b>ZYNK</b><br>
-    MERN-based social media platform with posts, likes, comments & saved posts.<br>
-    Integrated with <b>Cloudinary</b> for media uploads & <b>Socket.IO</b> for real-time chat.
-  </p>
-</td>
-</tr>
-</table>
 
 
 ### 📊 GitHub Stats
