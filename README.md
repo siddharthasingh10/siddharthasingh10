@@ -12,10 +12,18 @@
 
 ### 🌍 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/siddhartha-singh" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.codechef.com/users/sid_dartha10" target="blank"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white" /></a>
-<a href="https://leetcode.com/rajputsiddhartha2222" target="blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rajputsiddhvxbd" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://linkedin.com/in/siddhartha-singh-67683b284" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.codechef.com/users/sid_dartha10" target="blank">
+  <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/rajputsiddhartha2222/" target="blank">
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/rajputsiddhvxbd" target="blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
 </p>
 
 ---
@@ -23,6 +31,21 @@
 ### 🛠️ Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,c,cpp,docker,rabbitmq,tailwind" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/siddharthasingh10/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddharthasingh10&repo=project1&theme=radical" />
+  </a>
+  <a href="https://github.com/siddharthasingh10/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddharthasingh10&repo=project2&theme=radical" />
+  </a>
+  <a href="https://github.com/siddharthasingh10/project3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddharthasingh10&repo=project3&theme=radical" />
+  </a>
 </p>
 
 ---
